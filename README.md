@@ -9,7 +9,9 @@ Google Chrome
 2. Unzip the file and you should have a folder named kimola-airset-generator.
 3. In Chrome go to the extensions page (chrome://extensions).
 4. Switch to "Developer Mode" on the right-top corner.
-5. Drag the kimola-airset-generator folder anywhere on the page to import it (do not delete the folder afterwards).
+5. Drag the kimola-airset-generator folder anywhere on the page to import it (do not delete the folder afterwards). 
+6. Try a new post
+
 
 Kimola Airset Generator currently supports;
 - Youtube (Go to a video with comments - e.g., https://www.youtube.com/watch?v=XQbuhm-RReQ)
